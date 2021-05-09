@@ -2,11 +2,10 @@
 ## ¿Qué es la informática en la nube?
 Es la entrega de servicios informáticos mediante internet, los cuales pueden ser: servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia etc.
 
-__________________________________________
 ## Modelo de precios de la nube
 * Costos en relación a la demanda del cliente
 * Reduce costos operativos
 * Infraestructura más eficaz
 * Escalamiento ligado al crecimiento de la empresa
-____________________
+
 ## Modelos de sevicios en la nube
