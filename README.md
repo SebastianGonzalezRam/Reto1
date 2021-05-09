@@ -9,3 +9,4 @@ Es la entrega de servicios informáticos mediante internet, los cuales pueden se
 * Escalamiento ligado al crecimiento de la empresa
 
 ## Modelos de sevicios en la nube
+![Mapa de modelos de servicios!](https://raw.githubusercontent.com/SebastianGonzalezRam/Reto1/main/mapa1.png)
