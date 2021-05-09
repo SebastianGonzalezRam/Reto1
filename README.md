@@ -24,3 +24,6 @@ Es la entrega de servicios informáticos mediante internet, los cuales pueden se
 - En las Aplicaciones sin servidor, el proveedor administra automáticamente la infraestructura con base en las necesidades
 - Altamente escalables
 - Tareas de administración de recursos e infraestructura son invisibles para el desarrollador
+
+## Conceptos de Azure
+[Enlace](https://github.com/SebastianGonzalezRam/Reto1/blob/main/Azure.md "Azure").
